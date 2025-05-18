@@ -1,0 +1,2 @@
+export const supaURl = 'https://ecjuvnemucakmpvixfmb.supabase.co'
+export const anonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVjanV2bmVtdWNha21wdml4Zm1iIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQ1ODk3MTEsImV4cCI6MjA2MDE2NTcxMX0.PWktpQzuuGL145Ge1wSXFhu_tBkgPtU3gZiCDZSMtw8'
